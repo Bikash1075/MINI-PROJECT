@@ -1,0 +1,217 @@
+01.What is the most popular sport throughout the world?
+A. Soccer
+B. Cricket
+C. Volleyball
+D. Football
+
+02.How many cards are there in a complete pack of cards?
+A. 20
+B. 32
+C. 40
+D. 52
+
+03.What is the place where books are kept called?
+A. Zoo
+B. Library
+C. Garden
+D. Museum
+
+04.How many planets are there in our solar system?
+A. 7
+B. 8
+C. 9
+D. 5
+
+05.How many digits are there in Mathematics?
+A.Hundred
+B.Thousand
+C.Billion
+D.Infinite
+
+06.What is the 15th letter of the English alphabet?
+A.F
+B.I
+C.M
+D.O
+
+07.Which was the occupation or job of the following famous people: Leonardo da Vinci, Pablo Picasso, Vincent Van Gogh?
+A.Musician
+B.Painter
+C.Carpenter
+D.Dancers
+
+08.Which of the following birds is known for its intelligence?
+A.Owl
+B.Kingfisher
+C.Sparrow
+D.Crow
+
+09.Which one is not amongst the Seven Wonders of the World?
+A.Mecca Madina
+B.Statue of Liberty
+C.Taj Mahal
+D.The Great Wall of China
+
+10.Can you name the country from where Parmesan cheese comes?
+A.India
+B.China
+C.Italy
+D.France
+
+11.There are 31 days in May.
+A.True
+B.False
+
+12.Half of 250 is 75.
+A.False
+B.True
+
+13.Plants absorb Carbon dioxide.
+A.True
+B.False
+
+14.8 o’clock in the evening is written as 8 pm.
+A.False
+B.True
+
+15.An ostrich’s eye is bigger than its brain.
+A.True
+B.False
+
+16.William Shakespeare is a scientist.
+A.True
+B.False 
+
+17.Humans have four hearts.
+A.False
+B.True
+
+18.There are over 330 different dog breeds in the world.
+A.True
+B.False
+
+19.Electrons are larger than molecules.
+A.False
+B.True
+
+20.Watermelons are originally from Australia.
+A.True
+B.False
+
+21.Dodo is an endangered bird.
+A.False
+B.True
+
+22.There are 11 players in a cricket team.
+A.True
+B.False
+
+23.Bubble gum contains rubber.
+A.True
+B.False
+
+24.Adult dogs and adult humans have the same number of teeth.
+A.False
+B.True
+
+25.The deadliest earthquake of 2017 took place in Iran and Iraq.
+A.True
+B.False
+
+26.Medicine, Injection, Ointment, Laptop
+A.Medicine
+B.Laptop
+C.Injection
+D.Ointment
+
+27.Hammer, Blacksmith, Carpenter, Cobbler
+A.Hammer
+B.Carpenter
+C.Cobbler
+D.Blacksmith
+
+28.Cabbage, Potato, Capsicum, Tomato
+A.Potato
+B.Cabbage
+C.Capsicum
+D.Tomato
+
+29.Knife, Poison, Gun, Books
+A.Knife
+B.Books
+C.Poison
+D.Gun
+
+30.Earrings, Necklace, Wood, Bracelet
+A.Bracelet
+B.Necklace
+C.Earrings
+D.Wood
+
+31.Theater, Ticket, Movie, School
+A.Ticket
+B.Theater
+C.School
+D.Movie
+
+32.Paper, Poster, Book, Rug
+A.Poster
+B.Paper
+C.Book
+D.Rug
+
+33.Carrot, Mango, Banana, Apple
+A.Banana
+B.Mango
+C.Carrot
+D.Apple
+
+34.Ball, Bat, Stump, Hockey stick
+A.Stump
+B.Bat
+C.Ball
+D.Hockey stick
+
+35.Television, History, Science, Math
+A.Science 
+B.History 
+C.Television  
+D.Math
+
+36.How many bones do an adult human have?
+A.150
+B.108
+C.206
+
+37.Which number is known as the Ramanujan number?
+A.1654
+B.1525
+C.1729
+
+38.Who is known as the father of Mathematics?
+A.Archimedes
+B.Galilio
+
+39.Which planet is known as the ‘Dwarf Planet’?
+A.Earth
+B.Saturn
+C.Mars
+D.Pluto
+
+40.What makes up (approx.) 80% of our brain’s volume?
+A. Water
+B. Food
+
+41.Which language is used by the computer to process data?
+A.Common language
+B.Binary language
+
+42. Which continent is known as the ‘Dark’ continent? 
+A.Asia
+B.Africa
+C.Australia
+
+43.Which is the largest animal on land?
+A.Lion
+B.Tiger
+C.African Elephant
