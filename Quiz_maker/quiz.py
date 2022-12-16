@@ -39,7 +39,7 @@ def mcq_test(mcq):
         a=input(q.question)
         if a== q.answer:
             score=score+1
-    print(f'{name},You scored {score} out of len{mcq}')
+    print(f'{name},You scored {score} out of {len(mcq)}')
     if score<=23:
         print("you faied in quiz")
         print("Better luck next time!")
